@@ -1,4 +1,4 @@
-# wangEditor editor
+# wangEditor editorPro
 
 [English](./README-en.md)
 
